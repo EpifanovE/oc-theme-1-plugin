@@ -1,0 +1,6 @@
+plugin:
+    name: 'Theme #1'
+    description: 'Theme plugin'
+    author: 'Evgeny Epifanov'
+    icon: icon-cog
+    homepage: 'https://eecode.ru'
